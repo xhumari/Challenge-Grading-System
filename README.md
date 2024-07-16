@@ -1,0 +1,1 @@
+This repository contains Sandi Xhumari's materials for his alternative grading implementation called "Challenge Grading System" (CGS) in various classes. You may find syllabi, TILT-ed (Transparency in Teaching and Learning) lists of Learning Objectives with sample questions, previous challenges (my version of tests/quizzes), and reference sheets.
